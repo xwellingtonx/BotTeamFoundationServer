@@ -1,3 +1,6 @@
+
+![alt tag](https://raw.githubusercontent.com/wellingtonpires/BotTeamFoundationServer/master/screenshot.jpg)
+
 Getting Started
 
 1 - Generate a Personal Access Token <br />
